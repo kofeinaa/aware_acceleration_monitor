@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AWARE: Plugin Template</string>
+    <string name="plugin_template">Plugin: Template</string>
+    <string name="default_value">Current acceleration: </string>
+    <string name="default_max_value">Preferred maximum acceleration: </string>
+gi
+    <string-array name="accelerations">
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>9</item>
+    </string-array>
+
+</resources>

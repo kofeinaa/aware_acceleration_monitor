@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_allow.png",
+        "source": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/exploded-aar/com.awareframework/aware-core/4.0.655/res/drawable-xhdpi-v11/ic_stat_allow.png"
+    },
+    {
+        "merged": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_aware_esm.png",
+        "source": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/exploded-aar/com.awareframework/aware-core/4.0.655/res/drawable-xhdpi-v11/ic_stat_aware_esm.png"
+    },
+    {
+        "merged": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_aware_accessibility.png",
+        "source": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/exploded-aar/com.awareframework/aware-core/4.0.655/res/drawable-xhdpi-v11/ic_stat_aware_accessibility.png"
+    },
+    {
+        "merged": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_aware_sync.png",
+        "source": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/exploded-aar/com.awareframework/aware-core/4.0.655/res/drawable-xhdpi-v11/ic_stat_aware_sync.png"
+    },
+    {
+        "merged": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_aware_update.png",
+        "source": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/exploded-aar/com.awareframework/aware-core/4.0.655/res/drawable-xhdpi-v11/ic_stat_aware_update.png"
+    },
+    {
+        "merged": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_deny.png",
+        "source": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/exploded-aar/com.awareframework/aware-core/4.0.655/res/drawable-xhdpi-v11/ic_stat_deny.png"
+    },
+    {
+        "merged": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/res/merged/debug/drawable-xhdpi-v11/ic_stat_aware_plugin_dependency.png",
+        "source": "/home/wigdis/AML/project/aware-plugin-template/app/build/intermediates/exploded-aar/com.awareframework/aware-core/4.0.655/res/drawable-xhdpi-v11/ic_stat_aware_plugin_dependency.png"
+    }
+]
